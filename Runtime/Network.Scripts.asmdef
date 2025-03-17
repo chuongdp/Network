@@ -1,0 +1,35 @@
+{
+    "name": "Network.Scripts",
+    "rootNamespace": "",
+    "references": [
+        "UniRx",
+        "BestHTTP",
+        "GameFoundation.Models",
+        "GameFoundation.Utilities",
+        "GameFoundation.Script",
+        "UniTask",
+        "Zenject-Source",
+        "Zenject-Signals",
+        "VContainer",
+        "GameFoundation.AssetLibrary",
+        "GameFoundation.BlueprintFlow",
+        "GameFoundation.UIModule",
+        "GameFoundation.Signals",
+        "GameFoundation.DI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "jp.hadashikick.vcontainer",
+            "expression": "",
+            "define": "GDK_VCONTAINER"
+        }
+    ],
+    "noEngineReferences": false
+}
