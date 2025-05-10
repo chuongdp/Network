@@ -8,8 +8,6 @@
         "GameFoundation.Utilities",
         "GameFoundation.Script",
         "UniTask",
-        "Zenject-Source",
-        "Zenject-Signals",
         "VContainer",
         "GameFoundation.AssetLibrary",
         "GameFoundation.BlueprintFlow",
